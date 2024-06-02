@@ -1,2 +1,2 @@
 # Transformers
-Transformers that uses the model from Hugging Face
+Python script for Polish-to-English translation utilizing transformer from Hugging Face
